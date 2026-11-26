@@ -1,1 +1,1 @@
-NOVAVPN 
+vless://6ba79244-4e6e-5e7b-940f-8cfa189cb284@4ibm96e6m1k1.cloudymedia.click:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=mtalk.google.com&fp=firefox&pbk=9BUlinkTIxNgD2Em4KShtEbXOjBKvz2mDwT1VqoeR1k&sid=80c4e0bda641d6c9&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F 
