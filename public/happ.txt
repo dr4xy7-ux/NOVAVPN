@@ -1,3 +1,6 @@
+#profile-title: NOVAVPN
+#profile-update-interval: 1
+#announce: Приветствую вас в нашей подписке NovaVPN!❤️ Приятного пользования!🤩 НАШ ТЕЛЕГРАММ:NovaVPN125
 vless://6ba79244-4e6e-5e7b-940f-8cfa189cb284@4ibm96e6m1k1.cloudymedia.click:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=mtalk.google.com&fp=firefox&pbk=9BUlinkTIxNgD2Em4KShtEbXOjBKvz2mDwT1VqoeR1k&sid=80c4e0bda641d6c9&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F 
 vless://5dfb7d0e-a413-4a58-a77f-82e34d75f3f9@media-crown.ru:443?encryption=none&security=reality&sni=media-crown.ru&fp=edge&pbk=RaweMVVdvV09SzVRKSfSKqcAa_W0XwMC6o1gsDANwRw&sid=d9662905&type=grpc&mode=gun&authority=&serviceName=%2Fgprc.BL%2F#%F0%9F%87%A7%F0%9F%87%BE%20%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C 
 vless://5dfb7d0e-a413-4a58-a77f-82e34d75f3f9@hiwer-files-import.ru:443?encryption=none&security=reality&sni=hiwer-files-import.ru&fp=edge&pbk=9J0BRYKFigO-tbVcOXjx-z9qp4Sja-SaDvciVbXr0gY&sid=d9662905&spx=%2F&type=xhttp&mode=auto&path=%2Fapi%2Fconvert%2Fstream%2F#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B 
